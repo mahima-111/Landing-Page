@@ -50,7 +50,6 @@ nav .container{
 
 /* header */
 .header{
-    background-color: aqua;
     justify-content: space-between;
     gap: 10%;
 }
